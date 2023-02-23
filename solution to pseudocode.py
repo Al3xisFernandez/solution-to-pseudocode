@@ -61,4 +61,3 @@ print(puzzle(100))
 print(puzzle(pow(2022, 100)))
 
 
-# %%
